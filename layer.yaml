@@ -1,0 +1,9 @@
+includes:
+  - layer:basic
+  - layer:apt
+
+options:
+  apt:
+    packages:
+      - ros-bouncy-ros-base
+      - python3-colcon-common-extensions

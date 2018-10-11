@@ -1,0 +1,8 @@
+name: layer-ros2
+summary: ROS2 layer to generate applications
+maintainer: James Jesudason <james.jesudason@canonical.com>
+description: |
+  ROS2 layer to generate applications.
+display-name: layer-ros2
+tags:
+  - service
